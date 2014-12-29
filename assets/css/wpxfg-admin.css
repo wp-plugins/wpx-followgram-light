@@ -1,0 +1,49 @@
+/**
+ * CSS Style Sheet for Backend
+ *
+ * @author      wpXtreme, Inc.
+ * @copyright   Copyright (C) 2012 wpXtreme Inc. All Rights Reserved.
+ * @date        2013-11-08
+ * @version     1.0.0
+ */
+
+/* =====================================================================================================================
+ * General
+ * =====================================================================================================================
+ */
+
+div#wpxfg-followgram-preferences-header-view.wpdk-vc-header-icon
+{
+  background-image : url(images/logo-64x64.png);
+}
+
+div#wpxfollowgram-intro-header-view.wpdk-vc-header-icon,
+div#wpxfollowgram-account-header-view.wpdk-vc-header-icon
+{
+  background-image : url(images/logo-64x64.png);
+}
+
+div#wpxfollowgram-intro p
+{
+  font-size : 14px;
+}
+
+div#wpxfollowgram-intro p.aligncenter
+{
+  text-align : center;
+}
+
+div#wpxfollowgram-intro p.aligncenter img
+{
+  -moz-box-shadow    : 0 10px 20px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow : 0 10px 20px rgba(0, 0, 0, 0.3);
+  box-shadow         : 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+div#wpxfollowgram-intro p.aligncenter span
+{
+  display     : block;
+  margin      : 8px 0 32px;
+  font-weight : bold;
+  color       : #666;
+}

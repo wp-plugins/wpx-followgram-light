@@ -1,0 +1,14 @@
+/**
+ * CSS Style Sheet for Backend
+ *
+ * @author      wpXtreme, Inc.
+ * @copyright   Copyright (C) 2012-2014 wpXtreme Inc. All Rights Reserved.
+ * @date        2014-10-01
+ * @version     1.0.0
+ */
+
+#wpx-followgram-widget input[type="number"],
+#wpx-followgram-widget select
+{
+  width : 100px;
+}

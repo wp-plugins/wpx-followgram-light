@@ -1,0 +1,182 @@
+/**
+ * CSS Style sheet for widget
+ *
+ * ## Overview
+ * CSS Style sheet for widget
+ *
+ * @author          =undo= <info@wpxtre.me>
+ * @copyright       Copyright (C) 2012 wpXtreme Inc. All Rights Reserved.
+ * @date            2012-12-16
+ * @version         0.1.0
+ *
+ */
+
+/* =====================================================================================================================
+ * Standard clearfix
+ * =====================================================================================================================
+ */
+
+.clearfix {
+    *zoom : 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display     : table;
+    line-height : 0;
+    content     : "";
+}
+
+.clearfix:after {
+    clear : both;
+}
+
+/* =====================================================================================================================
+ * Widget Theme
+ * =====================================================================================================================
+ */
+
+.wpx-followgram-widget {
+    border                : 1px solid #ddd;
+    clear                 : both;
+    padding               : 8px 4px;
+
+    -moz-border-radius    : 3px;
+    -webkit-border-radius : 3px;
+    border-radius         : 3px;
+}
+
+.wpx-followgram-widget .wpx-followgram-profile {
+}
+
+.wpx-followgram-profile a.wpx-followgram-profile-name {
+    font-size   : 14px;
+    line-height : 14px;
+}
+
+.wpx-followgram-profile a.wpx-followgram-profile-name span {
+    font-size : 11px;
+}
+
+.wpx-followgram-profile-image {
+    display : block;
+    float   : left;
+    margin  : 0 8px 0 4px;
+}
+
+.wpx-followgram-widget .wpx-followgram-profile img {
+    width                 : 38px;
+    height                : 38px;
+
+    -moz-border-radius    : 3px;
+    -webkit-border-radius : 3px;
+    border-radius         : 3px;
+
+}
+
+.wpx-followgram-infos {
+    border-collapse : collapse;
+    margin          : 8px 0;
+}
+
+.wpx-followgram-infos td {
+    text-align : center;
+    width      : 33%;
+}
+
+.wpx-followgram-infos .wpx-followgram-count {
+    font-weight : bold;
+}
+
+.wpx-followgram-infos a {
+    background-color      : #eee;
+    display               : block;
+    font-size             : 11px;
+    padding               : 6px 0;
+    color                 : #668;
+    margin                : 0 4px;
+
+    -moz-border-radius    : 3px;
+    -webkit-border-radius : 3px;
+    border-radius         : 3px;
+
+    -webkit-transition    : all linear 0.2s;
+    -moz-transition       : all linear 0.2s;
+    -ms-transition        : all linear 0.2s;
+    -o-transition         : all linear 0.2s;
+    transition            : all linear 0.2s;
+
+}
+
+.wpx-followgram-infos a:hover {
+    background-color : #888;
+    color            : #fff;
+}
+
+.wpx-followgram-infos span {
+    display : block;
+}
+
+.wpx-followgram-photos {
+}
+
+.wpx-followgram-photos a {
+}
+
+.wpx-followgram-photos img {
+
+    display               : block;
+    float                 : left;
+    margin                : 8px;
+
+    width                 : 32px;
+    width                 : 32px;
+
+    -moz-border-radius    : 3px;
+    -webkit-border-radius : 3px;
+    border-radius         : 3px;
+
+    -moz-box-shadow       : 1px 1px 1px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow    : 1px 1px 1px rgba(0, 0, 0, 0.3);
+    box-shadow            : 1px 1px 1px rgba(0, 0, 0, 0.3);
+
+    opacity               : 0.8;
+    filter                : alpha(opacity = 80);
+
+    -webkit-transition    : all linear 0.2s;
+    -moz-transition       : all linear 0.2s;
+    -ms-transition        : all linear 0.2s;
+    -o-transition         : all linear 0.2s;
+    transition            : all linear 0.2s;
+}
+
+.wpx-followgram-photos img.medium {
+    width  : 64px;
+    height : 64px;
+}
+
+.wpx-followgram-photos img.large {
+    width  : 96px;
+    height : 96px;
+}
+
+.wpx-followgram-photos a:hover img {
+
+    opacity            : 1;
+    filter             : alpha(opacity = 100);
+
+    -moz-box-shadow    : none;
+    -webkit-box-shadow : none;
+    box-shadow         : none;
+}
+
+.wpx-follogram-firm {
+    width      : 200px;
+    margin     : 12px auto;
+    text-align : center;
+}
+
+.wpx-followgram-visit {
+    font-size  : 11px;
+    text-align : center;
+}
