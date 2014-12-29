@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Followgram\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-22 09:12+0100\n"
+"PO-Revision-Date: 2014-10-22 09:12+0100\n"
+"Last-Translator: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language-Team: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/admin/wpxfg-admin.php:66 ../classes/admin/wpxfg-admin.php:83
+msgid "Visit Followgram"
+msgstr ""
+
+#: ../classes/admin/wpxfg-admin.php:100
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:41
+#: ../classes/widgets/wpxfg-widget.php:36
+msgid "Followgram"
+msgstr ""
+
+#: ../classes/admin/wpxfg-admin.php:105
+msgid "Account Settings"
+msgstr ""
+
+#: ../classes/admin/wpxfg-admin.php:111
+msgid "Widget"
+msgstr ""
+
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:104
+msgid "Welcome to Followgram wpXtreme plugin for WordPress"
+msgstr ""
+
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:105
+#, php-format
+msgid ""
+"In order to display your instragram images, go to <a href=\"%s\">Widgets</a> "
+"menu and settings the <strong>Followgram</strong> widgets properties like "
+"shows below."
+msgstr ""
+
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:107
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:109
+msgid "Settings Widgets"
+msgstr ""
+
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:112
+#: ../classes/admin/wpxfg-intro-viewcontroller.php:114
+msgid "Choose your theme"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:43
+#, fuzzy
+msgid "Store"
+msgstr "Repristina"
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:46
+msgid "Preferences"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:95
+msgid "API keys"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:101
+msgid "UserID"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:103
+msgid "This is your Followgram UserID"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:104
+msgid "Your Followgram UserID"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:113
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:134
+msgid "Warning!"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:114
+msgid ""
+"You have to set the your Followgram account in order to display your photos."
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:122
+msgid "API key"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:123
+msgid "Your Followgram API KEY"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:125
+msgid "Your Followgram API key"
+msgstr ""
+
+#: ../classes/preferences/wpxfg-preferences-viewcontroller.php:135
+msgid ""
+"You have to set the your Followgram API KEY in order to display your photos."
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:24
+msgid "Displays Followgram profile."
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:179
+msgid ""
+"Please, check your backend settings! Can't get the instagram profile "
+"information."
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:231
+msgid "My instagrams"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:338
+msgid "Appearance"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:344
+msgid "Title"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:346
+msgid "This title will be displayed in frontend"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:347
+msgid "Title in frontend"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:355
+msgid "Picture size"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:357
+msgid "Small"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:358
+msgid "Medium"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:359
+msgid "Large"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:361
+msgid "pixel"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:369
+msgid "Photo number"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:372
+msgid "Number of photo to display: min 4 max 16"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:380
+msgid "Theme"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:382
+msgid "Default"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:383
+msgid "Darkness"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:388
+msgid "Advance cache"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:395
+msgid "Enable cache"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:403
+msgid "Duration"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:405
+msgid "15 minutes"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:406
+msgid "30 minutes"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:407
+msgid "1 hour"
+msgstr ""
+
+#: ../classes/widgets/wpxfg-widget.php:408
+msgid "6 hours"
+msgstr ""
+
+#: ../kickstart.php:109
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>WordPress version %s</strong> (<strong>minimum requirement: "
+"%s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:110
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>PHP language version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:111
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>MySQL database version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:115
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the WordPress version "
+"to the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:116
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the PHP language "
+"version to the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:117
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the MySQL version to "
+"the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:121
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>wpXtreme framework version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:122
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the wpXtreme framework "
+"version to the minimum required version."
+msgstr ""
+
+#~ msgid "Placeholders"
+#~ msgstr "Segnaposti"
+
+#~ msgid "Environment"
+#~ msgstr "Ambienti"
+
+#~ msgid "Places"
+#~ msgstr "Posti"
+
+#~ msgid "Place information"
+#~ msgstr "Informazioni posto"
+
+#~ msgid "Status"
+#~ msgstr "Stato"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "All"
+#~ msgstr "Tutti"
+
+#~ msgid "Publish"
+#~ msgstr "Pubblica"
+
+#~ msgid "Trash"
+#~ msgstr "Cestino"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgid "Icon"
+#~ msgstr "Icona"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Sposta nel cestino"
+
+#~ msgid "Add New"
+#~ msgstr "Aggiungi nuovo"
+
+#~ msgid "New Place"
+#~ msgstr "Nuovo posto"
+
+#~ msgid "Edit Place"
+#~ msgstr "Modifica posto"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"
