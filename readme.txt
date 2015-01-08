@@ -13,10 +13,13 @@ Display and manage your Instagram photos (via your Followgram profile).
 == Description ==
 
 An easy-to-use plugin to display and manage your Instagram photos (via your Followgram profile) in a nice and elegant way directly on your sidebar.
-
 Choose your layout, image sizes and start amaze people with your perfect shots from Followgram!
 
-== Related Links ==
+= Full version =
+
+For updates/support please visit [full version](https://wpxtre.me/product/wpx-follogram)
+
+= Related Links =
 
 * [wpXtreme website](https://wpxtre.me)
 * [WPDK on GitHub](https://github.com/wpXtreme/wpdk)
